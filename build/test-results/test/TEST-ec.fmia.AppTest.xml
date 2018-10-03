@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ec.fmia.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-30T22:26:40" hostname="pc-smxk66" time="0.002">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="ec.fmia.AppTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
